@@ -1,0 +1,242 @@
+#headerbackground {
+  position: absolute;
+  top: -2%;
+  left: -2%;
+  width: 102%;
+  height: 35%;
+  border: 20px solid rgb(242, 245, 244);
+  background-color: rgb(242, 245, 244);
+  text-align: center;
+  font-size: 4em;
+  color: cadetblue;
+}
+
+#sl {
+  font-size: 1em;
+}
+
+body {
+  background-color: rgb(162, 202, 201);
+}
+
+#erasimage {
+  position: absolute;
+  top: 36%;
+  left: 20%;
+}
+
+/*Table of Contents header*/
+#TOC {
+  position: absolute;
+  top: 38%;
+  left: 4%;
+  font-size: 2em;
+}
+
+h4 {
+  margin: 1%;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+#opener {
+  position: absolute;
+  top: 45%;
+  left: 30%;
+  right: 30%;
+  bottom: 30%;
+  font-size: 20px;
+}
+
+/*Table of contents where you can click and 
+go to each era*/
+#albums {
+  position: absolute;
+  top: 45%;
+  left: 5%;
+  border: 5px outset blueviolet;
+  background-color: lightblue;
+  text-align: center;
+  width: 200px;
+  height: 300px;
+  font-size: 1.2em;
+}
+
+#erasposter {
+  position: absolute;
+  top: 8%;
+  left: 10%;
+}
+
+/*The basic design for each of the eras*/
+.block {
+  position: absolute;
+  width: 1200px;
+  height: 850px;
+  border-radius: 25px;
+  text-align: center;
+}
+
+.debut {
+  background-color: rgb(177, 214, 177);
+  position: absolute;
+  top: 1450px;
+  left: 5%;
+}
+
+.debutb {
+  background-color: green;
+}
+
+.fearless {
+  top: 2400px;
+  right: 10%;
+
+  background-color: rgb(229, 201, 97);
+}
+
+.fearlessb {
+  background-color: gold;
+}
+
+.speaknow {
+  top: 3350px;
+  left: 10%;
+
+  background-color: rgb(143, 151, 229);
+}
+
+.speaknowb {
+  background-color: rgb(131, 0, 178);
+  color: white;
+}
+
+.red {
+  top: 4300px;
+  right: 10%;
+
+  background-color: rgb(161, 52, 52);
+}
+
+.redb {
+  background-color: red;
+  color: white;
+}
+
+.nineteen {
+  top: 5250px;
+  left: 10%;
+  background-color: rgb(70, 164, 164);
+}
+
+.nineteenb {
+  background-color: white;
+}
+
+.reputation {
+  top: 6200px;
+  right: 10%;
+  color: white;
+  background-color: rgb(63, 62, 68);
+}
+
+.reputationb {
+  background-color: black;
+  color: white;
+}
+
+.lover {
+  top: 7150px;
+  left: 10%;
+  background-color: rgb(222, 148, 212);
+}
+
+.loverb {
+  background-color: pink;
+}
+
+.folklore {
+  top: 8100px;
+  right: 10%;
+  background-color: rgb(158, 156, 158);
+}
+
+.folkloreb {
+  background-color: rgb(207, 204, 204);
+}
+
+.evermore {
+  top: 9050px;
+  left: 10%;
+  background-color: rgb(180, 152, 108);
+}
+
+.evermoreb {
+  background-color: rgb(212, 199, 166);
+}
+
+.midnights {
+  position: absolute;
+  top: 10000px;
+  right: 10%;
+  border-radius: 25px;
+  color: white;
+  background-color: rgb(47, 49, 161);
+}
+
+.midnightsb {
+  background-color: blue;
+  color: white;
+}
+
+.leftimg {
+  position: absolute;
+  left: 5%;
+  top: 10%;
+}
+
+.rightimg {
+  position: absolute;
+  right: 5%;
+  top: 10%;
+}
+
+.leftb {
+  position: absolute;
+  bottom: 10%;
+  left: 20%;
+  width: 150px;
+  height: 50px;
+  font-size: 1em;
+}
+
+.rightb {
+  position: absolute;
+  bottom: 10%;
+  right: 20%;
+  width: 150px;
+  height: 50px;
+  font-size: 1em;
+}
+.mainparagraph {
+  position: absolute;
+  margin-top: 0%;
+  left: 35%;
+  top: 18%;
+  width: 400px;
+  height: 400px;
+  font-size: 20pt;
+  text-align: center;
+}
+
+#bottombutton {
+  position: absolute;
+  top: 11000px;
+  left: 42%;
+  width: 150px;
+  height: 50px;
+  text-align: center;
+  font-size: 1.2em;
+}
